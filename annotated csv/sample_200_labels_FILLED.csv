@@ -1,0 +1,201 @@
+sample_id,filename,image_path,original_path,has_glasses,has_facial_hair,usable,notes
+ffhq_sample_0000,ffhq_sample_0000.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0000.png,/content/ffhq_dataset/thumbnails128x128/14592.png,0,0,1,
+ffhq_sample_0001,ffhq_sample_0001.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0001.png,/content/ffhq_dataset/thumbnails128x128/03278.png,0,0,1,
+ffhq_sample_0002,ffhq_sample_0002.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0002.png,/content/ffhq_dataset/thumbnails128x128/36048.png,0,0,1,
+ffhq_sample_0003,ffhq_sample_0003.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0003.png,/content/ffhq_dataset/thumbnails128x128/32098.png,0,0,1,
+ffhq_sample_0004,ffhq_sample_0004.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0004.png,/content/ffhq_dataset/thumbnails128x128/29256.png,0,0,1,
+ffhq_sample_0005,ffhq_sample_0005.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0005.png,/content/ffhq_dataset/thumbnails128x128/18289.png,0,0,1,
+ffhq_sample_0006,ffhq_sample_0006.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0006.png,/content/ffhq_dataset/thumbnails128x128/13434.png,0,0,1,
+ffhq_sample_0007,ffhq_sample_0007.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0007.png,/content/ffhq_dataset/thumbnails128x128/11395.png,0,0,1,
+ffhq_sample_0008,ffhq_sample_0008.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0008.png,/content/ffhq_dataset/thumbnails128x128/55302.png,0,1,1,
+ffhq_sample_0009,ffhq_sample_0009.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0009.png,/content/ffhq_dataset/thumbnails128x128/04165.png,0,0,1,
+ffhq_sample_0010,ffhq_sample_0010.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0010.png,/content/ffhq_dataset/thumbnails128x128/03905.png,0,0,1,
+ffhq_sample_0011,ffhq_sample_0011.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0011.png,/content/ffhq_dataset/thumbnails128x128/12280.png,0,0,1,
+ffhq_sample_0012,ffhq_sample_0012.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0012.png,/content/ffhq_dataset/thumbnails128x128/28657.png,0,1,1,profile angle
+ffhq_sample_0013,ffhq_sample_0013.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0013.png,/content/ffhq_dataset/thumbnails128x128/30495.png,0,0,1,
+ffhq_sample_0014,ffhq_sample_0014.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0014.png,/content/ffhq_dataset/thumbnails128x128/66237.png,1,1,1, sunglasses on head
+ffhq_sample_0015,ffhq_sample_0015.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0015.png,/content/ffhq_dataset/thumbnails128x128/03478.png,0,0,1,
+ffhq_sample_0016,ffhq_sample_0016.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0016.png,/content/ffhq_dataset/thumbnails128x128/26062.png,0,0,1,
+ffhq_sample_0017,ffhq_sample_0017.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0017.png,/content/ffhq_dataset/thumbnails128x128/54987.png,0,0,1,
+ffhq_sample_0018,ffhq_sample_0018.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0018.png,/content/ffhq_dataset/thumbnails128x128/28893.png,0,0,1,
+ffhq_sample_0019,ffhq_sample_0019.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0019.png,/content/ffhq_dataset/thumbnails128x128/58878.png,0,0,1,
+ffhq_sample_0020,ffhq_sample_0020.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0020.png,/content/ffhq_dataset/thumbnails128x128/36463.png,1,0,1,sunglasses
+ffhq_sample_0021,ffhq_sample_0021.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0021.png,/content/ffhq_dataset/thumbnails128x128/00851.png,0,0,1,
+ffhq_sample_0022,ffhq_sample_0022.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0022.png,/content/ffhq_dataset/thumbnails128x128/20926.png,0,0,1,
+ffhq_sample_0023,ffhq_sample_0023.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0023.png,/content/ffhq_dataset/thumbnails128x128/55392.png,1,0,1,
+ffhq_sample_0024,ffhq_sample_0024.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0024.png,/content/ffhq_dataset/thumbnails128x128/44597.png,0,0,1,
+ffhq_sample_0025,ffhq_sample_0025.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0025.png,/content/ffhq_dataset/thumbnails128x128/36421.png,0,0,1,
+ffhq_sample_0026,ffhq_sample_0026.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0026.png,/content/ffhq_dataset/thumbnails128x128/20379.png,0,0,1,
+ffhq_sample_0027,ffhq_sample_0027.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0027.png,/content/ffhq_dataset/thumbnails128x128/28221.png,0,0,1,
+ffhq_sample_0028,ffhq_sample_0028.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0028.png,/content/ffhq_dataset/thumbnails128x128/44118.png,0,0,1,
+ffhq_sample_0029,ffhq_sample_0029.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0029.png,/content/ffhq_dataset/thumbnails128x128/13396.png,1,0,1, sunglasses
+ffhq_sample_0030,ffhq_sample_0030.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0030.png,/content/ffhq_dataset/thumbnails128x128/12156.png,1,0,1,seeing glasses
+ffhq_sample_0031,ffhq_sample_0031.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0031.png,/content/ffhq_dataset/thumbnails128x128/49797.png,0,0,1,
+ffhq_sample_0032,ffhq_sample_0032.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0032.png,/content/ffhq_dataset/thumbnails128x128/12676.png,0,0,1,
+ffhq_sample_0033,ffhq_sample_0033.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0033.png,/content/ffhq_dataset/thumbnails128x128/47052.png,0,0,1,
+ffhq_sample_0034,ffhq_sample_0034.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0034.png,/content/ffhq_dataset/thumbnails128x128/45082.png,0,0,1,
+ffhq_sample_0035,ffhq_sample_0035.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0035.png,/content/ffhq_dataset/thumbnails128x128/34671.png,0,0,1,
+ffhq_sample_0036,ffhq_sample_0036.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0036.png,/content/ffhq_dataset/thumbnails128x128/05695.png,1,0,1, sunglasses
+ffhq_sample_0037,ffhq_sample_0037.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0037.png,/content/ffhq_dataset/thumbnails128x128/60217.png,0,0,1,
+ffhq_sample_0038,ffhq_sample_0038.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0038.png,/content/ffhq_dataset/thumbnails128x128/16361.png,0,0,1,
+ffhq_sample_0039,ffhq_sample_0039.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0039.png,/content/ffhq_dataset/thumbnails128x128/49615.png,1,1,1, seeing glasses little facial hair
+ffhq_sample_0040,ffhq_sample_0040.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0040.png,/content/ffhq_dataset/thumbnails128x128/10328.png,0,0,1,
+ffhq_sample_0041,ffhq_sample_0041.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0041.png,/content/ffhq_dataset/thumbnails128x128/38427.png,0,0,1,
+ffhq_sample_0042,ffhq_sample_0042.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0042.png,/content/ffhq_dataset/thumbnails128x128/47400.png,0,1,1,
+ffhq_sample_0043,ffhq_sample_0043.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0043.png,/content/ffhq_dataset/thumbnails128x128/25203.png,0,0,1,
+ffhq_sample_0044,ffhq_sample_0044.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0044.png,/content/ffhq_dataset/thumbnails128x128/09116.png,0,0,1,
+ffhq_sample_0045,ffhq_sample_0045.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0045.png,/content/ffhq_dataset/thumbnails128x128/06006.png,1,0,1,seeing glasses
+ffhq_sample_0046,ffhq_sample_0046.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0046.png,/content/ffhq_dataset/thumbnails128x128/29871.png,1,1,1,seeing glasses
+ffhq_sample_0047,ffhq_sample_0047.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0047.png,/content/ffhq_dataset/thumbnails128x128/37930.png,0,0,1,
+ffhq_sample_0048,ffhq_sample_0048.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0048.png,/content/ffhq_dataset/thumbnails128x128/10458.png,0,0,1,
+ffhq_sample_0049,ffhq_sample_0049.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0049.png,/content/ffhq_dataset/thumbnails128x128/30512.png,0,0,1,
+ffhq_sample_0050,ffhq_sample_0050.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0050.png,/content/ffhq_dataset/thumbnails128x128/13238.png,0,0,1,
+ffhq_sample_0051,ffhq_sample_0051.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0051.png,/content/ffhq_dataset/thumbnails128x128/49823.png,0,0,1,
+ffhq_sample_0052,ffhq_sample_0052.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0052.png,/content/ffhq_dataset/thumbnails128x128/36434.png,0,0,0,
+ffhq_sample_0053,ffhq_sample_0053.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0053.png,/content/ffhq_dataset/thumbnails128x128/59429.png,0,0,1,
+ffhq_sample_0054,ffhq_sample_0054.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0054.png,/content/ffhq_dataset/thumbnails128x128/47819.png,0,0,1,
+ffhq_sample_0055,ffhq_sample_0055.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0055.png,/content/ffhq_dataset/thumbnails128x128/21319.png,0,0,1,
+ffhq_sample_0056,ffhq_sample_0056.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0056.png,/content/ffhq_dataset/thumbnails128x128/48520.png,0,0,1,
+ffhq_sample_0057,ffhq_sample_0057.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0057.png,/content/ffhq_dataset/thumbnails128x128/46566.png,0,0,1,
+ffhq_sample_0058,ffhq_sample_0058.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0058.png,/content/ffhq_dataset/thumbnails128x128/27460.png,0,0,1,
+ffhq_sample_0059,ffhq_sample_0059.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0059.png,/content/ffhq_dataset/thumbnails128x128/34993.png,0,0,1,
+ffhq_sample_0060,ffhq_sample_0060.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0060.png,/content/ffhq_dataset/thumbnails128x128/09358.png,0,0,1,
+ffhq_sample_0061,ffhq_sample_0061.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0061.png,/content/ffhq_dataset/thumbnails128x128/22431.png,0,0,1,
+ffhq_sample_0062,ffhq_sample_0062.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0062.png,/content/ffhq_dataset/thumbnails128x128/32087.png,0,0,1,
+ffhq_sample_0063,ffhq_sample_0063.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0063.png,/content/ffhq_dataset/thumbnails128x128/21417.png,1,0,1, seeing glasses
+ffhq_sample_0064,ffhq_sample_0064.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0064.png,/content/ffhq_dataset/thumbnails128x128/60589.png,0,0,1,
+ffhq_sample_0065,ffhq_sample_0065.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0065.png,/content/ffhq_dataset/thumbnails128x128/49735.png,1,0,1, seeing glasses
+ffhq_sample_0066,ffhq_sample_0066.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0066.png,/content/ffhq_dataset/thumbnails128x128/35382.png,0,1,1,
+ffhq_sample_0067,ffhq_sample_0067.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0067.png,/content/ffhq_dataset/thumbnails128x128/28785.png,0,0,1,
+ffhq_sample_0068,ffhq_sample_0068.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0068.png,/content/ffhq_dataset/thumbnails128x128/42504.png,0,1,1,
+ffhq_sample_0069,ffhq_sample_0069.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0069.png,/content/ffhq_dataset/thumbnails128x128/07331.png,0,0,1,
+ffhq_sample_0070,ffhq_sample_0070.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0070.png,/content/ffhq_dataset/thumbnails128x128/30021.png,1,0,1,
+ffhq_sample_0071,ffhq_sample_0071.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0071.png,/content/ffhq_dataset/thumbnails128x128/04207.png,0,0,1,
+ffhq_sample_0072,ffhq_sample_0072.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0072.png,/content/ffhq_dataset/thumbnails128x128/41347.png,1,1,1, seeing glasses light moustache
+ffhq_sample_0073,ffhq_sample_0073.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0073.png,/content/ffhq_dataset/thumbnails128x128/52581.png,0,0,1,
+ffhq_sample_0074,ffhq_sample_0074.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0074.png,/content/ffhq_dataset/thumbnails128x128/35093.png,0,1,1,
+ffhq_sample_0075,ffhq_sample_0075.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0075.png,/content/ffhq_dataset/thumbnails128x128/08675.png,0,0,1,
+ffhq_sample_0076,ffhq_sample_0076.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0076.png,/content/ffhq_dataset/thumbnails128x128/27653.png,0,0,1,
+ffhq_sample_0077,ffhq_sample_0077.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0077.png,/content/ffhq_dataset/thumbnails128x128/41245.png,0,1,1, light facial hair
+ffhq_sample_0078,ffhq_sample_0078.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0078.png,/content/ffhq_dataset/thumbnails128x128/27869.png,0,0,1,
+ffhq_sample_0079,ffhq_sample_0079.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0079.png,/content/ffhq_dataset/thumbnails128x128/65435.png,0,0,1,
+ffhq_sample_0080,ffhq_sample_0080.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0080.png,/content/ffhq_dataset/thumbnails128x128/51856.png,0,1,1, light beard
+ffhq_sample_0081,ffhq_sample_0081.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0081.png,/content/ffhq_dataset/thumbnails128x128/60142.png,0,0,1,
+ffhq_sample_0082,ffhq_sample_0082.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0082.png,/content/ffhq_dataset/thumbnails128x128/18726.png,0,0,1,
+ffhq_sample_0083,ffhq_sample_0083.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0083.png,/content/ffhq_dataset/thumbnails128x128/34718.png,0,1,1,
+ffhq_sample_0084,ffhq_sample_0084.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0084.png,/content/ffhq_dataset/thumbnails128x128/18301.png,0,1,1,light moustache
+ffhq_sample_0085,ffhq_sample_0085.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0085.png,/content/ffhq_dataset/thumbnails128x128/32325.png,0,1,1, light moustache
+ffhq_sample_0086,ffhq_sample_0086.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0086.png,/content/ffhq_dataset/thumbnails128x128/34438.png,0,0,1,
+ffhq_sample_0087,ffhq_sample_0087.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0087.png,/content/ffhq_dataset/thumbnails128x128/56155.png,0,0,1,
+ffhq_sample_0088,ffhq_sample_0088.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0088.png,/content/ffhq_dataset/thumbnails128x128/52350.png,0,0,1,
+ffhq_sample_0089,ffhq_sample_0089.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0089.png,/content/ffhq_dataset/thumbnails128x128/47447.png,0,0,1,
+ffhq_sample_0090,ffhq_sample_0090.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0090.png,/content/ffhq_dataset/thumbnails128x128/28746.png,0,0,1,
+ffhq_sample_0091,ffhq_sample_0091.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0091.png,/content/ffhq_dataset/thumbnails128x128/18131.png,1,0,1, seeing glasses
+ffhq_sample_0092,ffhq_sample_0092.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0092.png,/content/ffhq_dataset/thumbnails128x128/66784.png,0,0,1,
+ffhq_sample_0093,ffhq_sample_0093.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0093.png,/content/ffhq_dataset/thumbnails128x128/64686.png,1,1,1, seeing glasses
+ffhq_sample_0094,ffhq_sample_0094.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0094.png,/content/ffhq_dataset/thumbnails128x128/11915.png,0,0,1,
+ffhq_sample_0095,ffhq_sample_0095.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0095.png,/content/ffhq_dataset/thumbnails128x128/06175.png,0,0,1,
+ffhq_sample_0096,ffhq_sample_0096.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0096.png,/content/ffhq_dataset/thumbnails128x128/14371.png,0,0,1,
+ffhq_sample_0097,ffhq_sample_0097.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0097.png,/content/ffhq_dataset/thumbnails128x128/20033.png,1,0,1, sunglasses on head
+ffhq_sample_0098,ffhq_sample_0098.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0098.png,/content/ffhq_dataset/thumbnails128x128/20969.png,0,1,1,
+ffhq_sample_0099,ffhq_sample_0099.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0099.png,/content/ffhq_dataset/thumbnails128x128/55333.png,0,0,1,
+ffhq_sample_0100,ffhq_sample_0100.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0100.png,/content/ffhq_dataset/thumbnails128x128/08326.png,0,0,1,
+ffhq_sample_0101,ffhq_sample_0101.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0101.png,/content/ffhq_dataset/thumbnails128x128/50432.png,0,0,1,
+ffhq_sample_0102,ffhq_sample_0102.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0102.png,/content/ffhq_dataset/thumbnails128x128/50019.png,0,1,1,
+ffhq_sample_0103,ffhq_sample_0103.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0103.png,/content/ffhq_dataset/thumbnails128x128/61348.png,0,0,1,
+ffhq_sample_0104,ffhq_sample_0104.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0104.png,/content/ffhq_dataset/thumbnails128x128/69352.png,0,0,1,
+ffhq_sample_0105,ffhq_sample_0105.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0105.png,/content/ffhq_dataset/thumbnails128x128/32953.png,0,1,1,light moustache
+ffhq_sample_0106,ffhq_sample_0106.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0106.png,/content/ffhq_dataset/thumbnails128x128/01504.png,0,0,1,
+ffhq_sample_0107,ffhq_sample_0107.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0107.png,/content/ffhq_dataset/thumbnails128x128/15014.png,1,0,1, seeing glasses
+ffhq_sample_0108,ffhq_sample_0108.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0108.png,/content/ffhq_dataset/thumbnails128x128/34973.png,0,0,1,
+ffhq_sample_0109,ffhq_sample_0109.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0109.png,/content/ffhq_dataset/thumbnails128x128/44587.png,0,0,1,
+ffhq_sample_0110,ffhq_sample_0110.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0110.png,/content/ffhq_dataset/thumbnails128x128/14621.png,0,1,1,
+ffhq_sample_0111,ffhq_sample_0111.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0111.png,/content/ffhq_dataset/thumbnails128x128/38469.png,1,0,1,seeing glasses
+ffhq_sample_0112,ffhq_sample_0112.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0112.png,/content/ffhq_dataset/thumbnails128x128/56985.png,1,0,1,seeing glasses
+ffhq_sample_0113,ffhq_sample_0113.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0113.png,/content/ffhq_dataset/thumbnails128x128/20730.png,0,0,1,
+ffhq_sample_0114,ffhq_sample_0114.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0114.png,/content/ffhq_dataset/thumbnails128x128/59470.png,0,0,1,
+ffhq_sample_0115,ffhq_sample_0115.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0115.png,/content/ffhq_dataset/thumbnails128x128/00425.png,1,0,1, seeing glasses
+ffhq_sample_0116,ffhq_sample_0116.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0116.png,/content/ffhq_dataset/thumbnails128x128/34522.png,0,0,1,
+ffhq_sample_0117,ffhq_sample_0117.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0117.png,/content/ffhq_dataset/thumbnails128x128/65612.png,1,1,1, seeing glasses
+ffhq_sample_0118,ffhq_sample_0118.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0118.png,/content/ffhq_dataset/thumbnails128x128/23416.png,0,0,1,
+ffhq_sample_0119,ffhq_sample_0119.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0119.png,/content/ffhq_dataset/thumbnails128x128/66542.png,1,1,1,
+ffhq_sample_0120,ffhq_sample_0120.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0120.png,/content/ffhq_dataset/thumbnails128x128/13947.png,0,0,1,
+ffhq_sample_0121,ffhq_sample_0121.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0121.png,/content/ffhq_dataset/thumbnails128x128/39117.png,0,1,1, light facial hair
+ffhq_sample_0122,ffhq_sample_0122.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0122.png,/content/ffhq_dataset/thumbnails128x128/66540.png,1,0,1, seeing glasses
+ffhq_sample_0123,ffhq_sample_0123.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0123.png,/content/ffhq_dataset/thumbnails128x128/26071.png,0,1,1,
+ffhq_sample_0124,ffhq_sample_0124.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0124.png,/content/ffhq_dataset/thumbnails128x128/20032.png,0,1,1,
+ffhq_sample_0125,ffhq_sample_0125.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0125.png,/content/ffhq_dataset/thumbnails128x128/49009.png,0,0,1,
+ffhq_sample_0126,ffhq_sample_0126.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0126.png,/content/ffhq_dataset/thumbnails128x128/21174.png,0,0,1,
+ffhq_sample_0127,ffhq_sample_0127.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0127.png,/content/ffhq_dataset/thumbnails128x128/69514.png,0,1,1, light moustache
+ffhq_sample_0128,ffhq_sample_0128.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0128.png,/content/ffhq_dataset/thumbnails128x128/00074.png,0,0,1,
+ffhq_sample_0129,ffhq_sample_0129.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0129.png,/content/ffhq_dataset/thumbnails128x128/42487.png,0,0,1,
+ffhq_sample_0130,ffhq_sample_0130.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0130.png,/content/ffhq_dataset/thumbnails128x128/64042.png,1,0,1, sunglasses
+ffhq_sample_0131,ffhq_sample_0131.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0131.png,/content/ffhq_dataset/thumbnails128x128/02552.png,0,0,1,
+ffhq_sample_0132,ffhq_sample_0132.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0132.png,/content/ffhq_dataset/thumbnails128x128/14662.png,0,0,1,
+ffhq_sample_0133,ffhq_sample_0133.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0133.png,/content/ffhq_dataset/thumbnails128x128/47576.png,0,1,1,
+ffhq_sample_0134,ffhq_sample_0134.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0134.png,/content/ffhq_dataset/thumbnails128x128/40306.png,0,1,1,
+ffhq_sample_0135,ffhq_sample_0135.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0135.png,/content/ffhq_dataset/thumbnails128x128/31385.png,0,1,1,
+ffhq_sample_0136,ffhq_sample_0136.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0136.png,/content/ffhq_dataset/thumbnails128x128/07592.png,0,0,1,
+ffhq_sample_0137,ffhq_sample_0137.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0137.png,/content/ffhq_dataset/thumbnails128x128/31571.png,0,1,1,light facial hair
+ffhq_sample_0138,ffhq_sample_0138.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0138.png,/content/ffhq_dataset/thumbnails128x128/10322.png,0,0,1,
+ffhq_sample_0139,ffhq_sample_0139.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0139.png,/content/ffhq_dataset/thumbnails128x128/11226.png,0,1,1,
+ffhq_sample_0140,ffhq_sample_0140.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0140.png,/content/ffhq_dataset/thumbnails128x128/63699.png,0,0,1,
+ffhq_sample_0141,ffhq_sample_0141.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0141.png,/content/ffhq_dataset/thumbnails128x128/09071.png,0,0,1,
+ffhq_sample_0142,ffhq_sample_0142.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0142.png,/content/ffhq_dataset/thumbnails128x128/69822.png,0,0,1,
+ffhq_sample_0143,ffhq_sample_0143.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0143.png,/content/ffhq_dataset/thumbnails128x128/16483.png,1,0,1, seeing glasses
+ffhq_sample_0144,ffhq_sample_0144.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0144.png,/content/ffhq_dataset/thumbnails128x128/16828.png,0,0,1,
+ffhq_sample_0145,ffhq_sample_0145.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0145.png,/content/ffhq_dataset/thumbnails128x128/62296.png,0,0,1,
+ffhq_sample_0146,ffhq_sample_0146.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0146.png,/content/ffhq_dataset/thumbnails128x128/21643.png,0,0,1,
+ffhq_sample_0147,ffhq_sample_0147.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0147.png,/content/ffhq_dataset/thumbnails128x128/34741.png,1,0,1, sunglasses
+ffhq_sample_0148,ffhq_sample_0148.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0148.png,/content/ffhq_dataset/thumbnails128x128/69163.png,0,1,1,
+ffhq_sample_0149,ffhq_sample_0149.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0149.png,/content/ffhq_dataset/thumbnails128x128/55461.png,0,1,1,
+ffhq_sample_0150,ffhq_sample_0150.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0150.png,/content/ffhq_dataset/thumbnails128x128/27760.png,0,0,1,
+ffhq_sample_0151,ffhq_sample_0151.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0151.png,/content/ffhq_dataset/thumbnails128x128/26365.png,0,0,1,
+ffhq_sample_0152,ffhq_sample_0152.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0152.png,/content/ffhq_dataset/thumbnails128x128/40857.png,0,0,1,
+ffhq_sample_0153,ffhq_sample_0153.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0153.png,/content/ffhq_dataset/thumbnails128x128/52296.png,1,0,1, sunglasses
+ffhq_sample_0154,ffhq_sample_0154.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0154.png,/content/ffhq_dataset/thumbnails128x128/48944.png,0,0,1,
+ffhq_sample_0155,ffhq_sample_0155.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0155.png,/content/ffhq_dataset/thumbnails128x128/57422.png,0,0,1,
+ffhq_sample_0156,ffhq_sample_0156.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0156.png,/content/ffhq_dataset/thumbnails128x128/67839.png,0,0,1,
+ffhq_sample_0157,ffhq_sample_0157.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0157.png,/content/ffhq_dataset/thumbnails128x128/59177.png,0,0,1,
+ffhq_sample_0158,ffhq_sample_0158.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0158.png,/content/ffhq_dataset/thumbnails128x128/15860.png,0,0,1,
+ffhq_sample_0159,ffhq_sample_0159.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0159.png,/content/ffhq_dataset/thumbnails128x128/32493.png,0,0,1,
+ffhq_sample_0160,ffhq_sample_0160.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0160.png,/content/ffhq_dataset/thumbnails128x128/29451.png,0,0,1,
+ffhq_sample_0161,ffhq_sample_0161.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0161.png,/content/ffhq_dataset/thumbnails128x128/08392.png,0,0,1,
+ffhq_sample_0162,ffhq_sample_0162.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0162.png,/content/ffhq_dataset/thumbnails128x128/44313.png,0,0,1,
+ffhq_sample_0163,ffhq_sample_0163.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0163.png,/content/ffhq_dataset/thumbnails128x128/02757.png,0,0,1,
+ffhq_sample_0164,ffhq_sample_0164.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0164.png,/content/ffhq_dataset/thumbnails128x128/30161.png,0,0,1,
+ffhq_sample_0165,ffhq_sample_0165.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0165.png,/content/ffhq_dataset/thumbnails128x128/28864.png,0,0,1,
+ffhq_sample_0166,ffhq_sample_0166.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0166.png,/content/ffhq_dataset/thumbnails128x128/00942.png,0,0,1,
+ffhq_sample_0167,ffhq_sample_0167.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0167.png,/content/ffhq_dataset/thumbnails128x128/09305.png,1,1,1, sunglasses on head
+ffhq_sample_0168,ffhq_sample_0168.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0168.png,/content/ffhq_dataset/thumbnails128x128/07716.png,0,0,1,
+ffhq_sample_0169,ffhq_sample_0169.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0169.png,/content/ffhq_dataset/thumbnails128x128/30007.png,0,0,1,
+ffhq_sample_0170,ffhq_sample_0170.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0170.png,/content/ffhq_dataset/thumbnails128x128/08834.png,0,0,0, two people overlapping
+ffhq_sample_0171,ffhq_sample_0171.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0171.png,/content/ffhq_dataset/thumbnails128x128/04117.png,0,0,1,
+ffhq_sample_0172,ffhq_sample_0172.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0172.png,/content/ffhq_dataset/thumbnails128x128/43309.png,0,0,1,
+ffhq_sample_0173,ffhq_sample_0173.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0173.png,/content/ffhq_dataset/thumbnails128x128/09287.png,0,0,1,
+ffhq_sample_0174,ffhq_sample_0174.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0174.png,/content/ffhq_dataset/thumbnails128x128/67391.png,0,1,1,
+ffhq_sample_0175,ffhq_sample_0175.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0175.png,/content/ffhq_dataset/thumbnails128x128/31195.png,0,0,1,
+ffhq_sample_0176,ffhq_sample_0176.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0176.png,/content/ffhq_dataset/thumbnails128x128/36500.png,0,1,1, light facial hair
+ffhq_sample_0177,ffhq_sample_0177.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0177.png,/content/ffhq_dataset/thumbnails128x128/63624.png,0,0,1,
+ffhq_sample_0178,ffhq_sample_0178.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0178.png,/content/ffhq_dataset/thumbnails128x128/28080.png,0,0,1,
+ffhq_sample_0179,ffhq_sample_0179.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0179.png,/content/ffhq_dataset/thumbnails128x128/17342.png,0,0,1,
+ffhq_sample_0180,ffhq_sample_0180.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0180.png,/content/ffhq_dataset/thumbnails128x128/61953.png,0,1,1,
+ffhq_sample_0181,ffhq_sample_0181.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0181.png,/content/ffhq_dataset/thumbnails128x128/31850.png,0,0,1,
+ffhq_sample_0182,ffhq_sample_0182.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0182.png,/content/ffhq_dataset/thumbnails128x128/61993.png,1,0,1,
+ffhq_sample_0183,ffhq_sample_0183.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0183.png,/content/ffhq_dataset/thumbnails128x128/53354.png,0,1,1,
+ffhq_sample_0184,ffhq_sample_0184.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0184.png,/content/ffhq_dataset/thumbnails128x128/24957.png,0,0,1,
+ffhq_sample_0185,ffhq_sample_0185.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0185.png,/content/ffhq_dataset/thumbnails128x128/12363.png,0,0,1,
+ffhq_sample_0186,ffhq_sample_0186.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0186.png,/content/ffhq_dataset/thumbnails128x128/12704.png,1,0,1,
+ffhq_sample_0187,ffhq_sample_0187.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0187.png,/content/ffhq_dataset/thumbnails128x128/56498.png,1,0,1,glasses on head
+ffhq_sample_0188,ffhq_sample_0188.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0188.png,/content/ffhq_dataset/thumbnails128x128/46438.png,0,0,1,
+ffhq_sample_0189,ffhq_sample_0189.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0189.png,/content/ffhq_dataset/thumbnails128x128/55519.png,1,1,1, sunglasses light moustache
+ffhq_sample_0190,ffhq_sample_0190.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0190.png,/content/ffhq_dataset/thumbnails128x128/53883.png,0,0,1,
+ffhq_sample_0191,ffhq_sample_0191.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0191.png,/content/ffhq_dataset/thumbnails128x128/61213.png,0,0,1,
+ffhq_sample_0192,ffhq_sample_0192.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0192.png,/content/ffhq_dataset/thumbnails128x128/07100.png,0,0,1,
+ffhq_sample_0193,ffhq_sample_0193.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0193.png,/content/ffhq_dataset/thumbnails128x128/12899.png,0,0,1,
+ffhq_sample_0194,ffhq_sample_0194.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0194.png,/content/ffhq_dataset/thumbnails128x128/07944.png,0,1,1, light beard
+ffhq_sample_0195,ffhq_sample_0195.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0195.png,/content/ffhq_dataset/thumbnails128x128/52772.png,0,1,1,
+ffhq_sample_0196,ffhq_sample_0196.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0196.png,/content/ffhq_dataset/thumbnails128x128/44473.png,0,0,1,
+ffhq_sample_0197,ffhq_sample_0197.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0197.png,/content/ffhq_dataset/thumbnails128x128/14322.png,0,0,1,
+ffhq_sample_0198,ffhq_sample_0198.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0198.png,/content/ffhq_dataset/thumbnails128x128/32591.png,0,0,1,
+ffhq_sample_0199,ffhq_sample_0199.png,/content/drive/MyDrive/adobe_phase1_failure_analysis/sample_200_for_labeling/ffhq_sample_0199.png,/content/ffhq_dataset/thumbnails128x128/25112.png,0,0,1,
