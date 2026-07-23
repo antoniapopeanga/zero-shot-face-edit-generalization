@@ -227,3 +227,5 @@ outputs/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+# add images for readme
+!images/*.png
